@@ -1,0 +1,12 @@
+{
+  "name": "json-server-posts",
+  "version": "1.0.0",
+  "description": "JSON Server with Posts & TODOs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
